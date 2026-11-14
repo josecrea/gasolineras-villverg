@@ -1,11 +1,11 @@
 {
-  "fecha": "13/11/2026 15:45:29",
+  "fecha": "14/11/2026 14:42:03",
   "deposito_litros": 60,
   "sur_tenerife": {
     "gasoleo": {
       "combustible": "Gasóleo A",
       "estaciones": 64,
-      "media": 1.706,
+      "media": 1.704,
       "mas_barata": {
         "rotulo": "PLENERGY",
         "direccion": "AVENIDA CLAUDIO DELGADO DÍAZ, S/N",
@@ -18,12 +18,12 @@
         "municipio": "Granadilla de Abona",
         "precio": 1.699
       },
-      "ahorro_deposito_vs_media": 8.24
+      "ahorro_deposito_vs_media": 8.12
     },
     "g95": {
       "combustible": "Gasolina 95",
       "estaciones": 64,
-      "media": 1.548,
+      "media": 1.547,
       "mas_barata": {
         "rotulo": "TGAS-TU TRÉBOL",
         "direccion": "AUTOPISTA TF1 AUTOPISTA SUR A ARMEÑIME, CRUCE LA CALETA KM. S/N",
@@ -36,7 +36,7 @@
         "municipio": "Adeje",
         "precio": 1.539
       },
-      "ahorro_deposito_vs_media": 8.43
+      "ahorro_deposito_vs_media": 8.34
     }
   }
 }
