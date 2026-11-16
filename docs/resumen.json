@@ -1,14 +1,14 @@
 {
-  "fecha": "15/11/2026 15:10:09",
+  "fecha": "16/11/2026 17:11:25",
   "deposito_litros": 60,
   "sur_tenerife": {
     "gasoleo": {
       "combustible": "Gasóleo A",
       "estaciones": 64,
-      "media": 1.705,
+      "media": 1.708,
       "mas_barata": {
-        "rotulo": "OCÉANO",
-        "direccion": "AVENIDA LUCIO DIAZ FLORES FEO, MZ 27, FINCA 11B, S7N",
+        "rotulo": "PLENERGY",
+        "direccion": "AVENIDA CLAUDIO DELGADO DÍAZ, S/N",
         "municipio": "San Miguel de Abona",
         "precio": 1.569
       },
@@ -18,7 +18,7 @@
         "municipio": "Granadilla de Abona",
         "precio": 1.679
       },
-      "ahorro_deposito_vs_media": 8.17
+      "ahorro_deposito_vs_media": 8.34
     },
     "g95": {
       "combustible": "Gasolina 95",
@@ -36,7 +36,7 @@
         "municipio": "Granadilla de Abona",
         "precio": 1.519
       },
-      "ahorro_deposito_vs_media": 8.36
+      "ahorro_deposito_vs_media": 8.31
     }
   }
 }
