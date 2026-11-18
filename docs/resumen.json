@@ -1,16 +1,16 @@
 {
-  "fecha": "17/11/2026 17:18:11",
+  "fecha": "18/11/2026 16:51:52",
   "deposito_litros": 60,
   "sur_tenerife": {
     "gasoleo": {
       "combustible": "Gasóleo A",
       "estaciones": 64,
-      "media": 1.706,
+      "media": 1.702,
       "mas_barata": {
         "rotulo": "PLENERGY",
-        "direccion": "AVENIDA CLAUDIO DELGADO DÍAZ, S/N",
+        "direccion": "CALLE MENCEY ADJONA, S/N",
         "municipio": "San Miguel de Abona",
-        "precio": 1.569
+        "precio": 1.579
       },
       "solred_mas_barata": {
         "rotulo": "REPSOL",
@@ -18,25 +18,25 @@
         "municipio": "Granadilla de Abona",
         "precio": 1.679
       },
-      "ahorro_deposito_vs_media": 8.2
+      "ahorro_deposito_vs_media": 7.4
     },
     "g95": {
       "combustible": "Gasolina 95",
       "estaciones": 64,
-      "media": 1.543,
+      "media": 1.538,
       "mas_barata": {
-        "rotulo": "TGAS-TU TRÉBOL",
-        "direccion": "AUTOPISTA TF1 AUTOPISTA SUR A ARMEÑIME, CRUCE LA CALETA KM. S/N",
+        "rotulo": "GMOIL",
+        "direccion": "CALLE CHARFA ESQUINA AVENIDA LAS PALMITAS, S/N",
         "municipio": "Adeje",
-        "precio": 1.408
+        "precio": 1.399
       },
       "solred_mas_barata": {
         "rotulo": "REPSOL",
-        "direccion": "CARRETERA TF-47 KM. 2,7",
-        "municipio": "Adeje",
-        "precio": 1.539
+        "direccion": "AUTOVIA TF-1 KM. 39",
+        "municipio": "Arico",
+        "precio": 1.529
       },
-      "ahorro_deposito_vs_media": 8.11
+      "ahorro_deposito_vs_media": 8.37
     }
   }
 }
