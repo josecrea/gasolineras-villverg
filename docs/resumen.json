@@ -1,5 +1,5 @@
 {
-  "fecha": "21/11/2026 15:49:56",
+  "fecha": "22/11/2026 15:45:41",
   "deposito_litros": 60,
   "sur_tenerife": {
     "gasoleo": {
@@ -7,8 +7,8 @@
       "estaciones": 66,
       "media": 1.69,
       "mas_barata": {
-        "rotulo": "PLENERGY",
-        "direccion": "CALLE MENCEY ADJONA, S/N",
+        "rotulo": "OCÉANO",
+        "direccion": "AVENIDA LUCIO DIAZ FLORES FEO, MZ 27, FINCA 11B, S7N",
         "municipio": "San Miguel de Abona",
         "precio": 1.545
       },
@@ -16,17 +16,17 @@
         "rotulo": "REPSOL",
         "direccion": "ACCESO ACCESO AEROPUERTO TENERIFE SUR, 1",
         "municipio": "Granadilla de Abona",
-        "precio": 1.679
+        "precio": 1.669
       },
-      "ahorro_deposito_vs_media": 8.71
+      "ahorro_deposito_vs_media": 8.73
     },
     "g95": {
       "combustible": "Gasolina 95",
       "estaciones": 66,
       "media": 1.523,
       "mas_barata": {
-        "rotulo": "PLENERGY",
-        "direccion": "CALLE MENCEY ADJONA, S/N",
+        "rotulo": "OCÉANO",
+        "direccion": "AVENIDA LUCIO DIAZ FLORES FEO, MZ 27, FINCA 11B, S7N",
         "municipio": "San Miguel de Abona",
         "precio": 1.379
       },
@@ -34,9 +34,9 @@
         "rotulo": "REPSOL",
         "direccion": "ACCESO ACCESO AEROPUERTO TENERIFE SUR, 1",
         "municipio": "Granadilla de Abona",
-        "precio": 1.515
+        "precio": 1.495
       },
-      "ahorro_deposito_vs_media": 8.64
+      "ahorro_deposito_vs_media": 8.66
     }
   }
 }
